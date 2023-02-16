@@ -15,6 +15,6 @@ Linguagens/tecnologias utilizadas:
 
 ### PARA INICIAR O PROJETO
 
-O primeiro paço é exectar o script para criação do bando de dados (nome do arquivo: querys.sql) e verificar as confirgurações de conexão  em app/Connection.php
+O primeiro passo é exectar o script para criação do bando de dados (nome do arquivo: querys.sql) e verificar as confirgurações de conexão  em app/Connection.php
 
 Em seguida excecutar em um servidor PHP a pasta pública e acessar o diretório na web.
